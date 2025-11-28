@@ -87,7 +87,7 @@ const SimpleMarkdown = ({ text, isUser }: { text: string, isUser: boolean }) => 
 
 const TextChat: React.FC = () => {
   const [messages, setMessages] = useState<Message[]>([
-    { role: 'model', text: '### Bonjour !\n\nJe suis votre assistant juridique spécialisé en contentieux international.\n\nJe peux vous aider sur les thèmes suivants :\n- **Les actes administratifs unilatéraux**\n- **La police administrative**\n- **Le service public**\n\nQuelle est votre question ?', timestamp: new Date() }
+    { role: 'model', text: '### Bonjour !\n\nJe suis votre assistant juridique spécialisé en contentieux international.\n\nJe peux vous aider sur les thèmes suivants :\n- **Les différends internationaux**\n- **La protection diplomatique**\n- **Les contre-mesures**\n\nQuelle est votre question ?', timestamp: new Date() }
   ]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
@@ -103,10 +103,10 @@ const TextChat: React.FC = () => {
   const API_KEY = import.meta.env.VITE_API_KEY;
 
   const suggestions = [
-    "Qu'est-ce qu'un service public ?",
-    "L'arrêt Benjamin et la police administrative",
-    "Différence entre SPA et SPIC",
-    "Définition d'un acte réglementaire"
+    "Qu'est-ce qu'un différend ?",
+    "L'arrêt Mavrommatis et la notion de différend",
+    "Différence entre différend justiciable et différend non justiciable",
+    "Définition de la médiation"
   ];
 
   const scrollToBottom = () => {
