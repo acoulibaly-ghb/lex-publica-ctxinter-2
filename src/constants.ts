@@ -2,8 +2,23 @@
 export const KNOWLEDGE_BASE = `
 --- DOCUMENT 1: INTRODUCTION AU COURS DE CONTENTIEUX INTERNATIONAL ---
 
-Définition du droit du contentieux international : Le droit du contentieux international, c'est l'ensemble des normes de fond et de procédure, qui gouvernent le règlement juridictionnel de différends opposant des sujets de droit international.
-Une telle définition met en exergue à la fois des critères matériels [1, 2 et 3] et un critère organique [4] que nous nous emploierons à analyser dans cette introduction générale.
+Définition : Le droit du contentieux international, c'est l'ensemble des normes de fond et de procédure, qui gouvernent le règlement juridictionnel de différends opposant des sujets de droit international.
+Définition : « Un différend est un désaccord sur un point de droit ou de fait, une contradiction, une opposition de thèses juridiques ou d'intérêts entre deux personnes. » —  Affaire des concessions Mavrommatis en Palestine, Exception d’incompétence, Arrêt du 30 août 1924. CPJI, série A n°2.
+Définition : Un différend d’ordre juridique est un différend « susceptible d'être résolu par application des principes et des règles du droit international » – Actions armées frontalières et transfrontalières (Nicaragua c. Honduras), compétence et recevabilité, Arrêt du 20 décembre 1988. C.I.J. Recueil 1988, p. 69.
+Définition : Un différend justiciable est un différend susceptible d'être soumis valablement à une juridiction internationale.
+Définition : Un différend non justiciable est un différend insusceptible d'être soumis valablement à une juridiction internationale.
+Définition : Une contre-mesure est un acte exclusif de tout recours aux armes, pris par un État, en violation d'une de ses obligations internationales, pour riposter à un fait internationalement illicite commis à son encontre par un autre État.
+Définition : La négociation est un mode diplomatique caractérisé par un dialogue, en principe direct, au cours duquel les parties procèdent à des échanges de vues et à des concessions réciproques, afin de parvenir à un règlement amiable de leur différend.
+Définition : La médiation est un mode diplomatique caractérisé par l’intervention, spontanée ou sollicitée, d’un tiers qui s’emploie à rapprocher les points de vue des parties afin de leur proposer un règlement amiable de leur différend.
+Définition : Les bons offices sont un mode diplomatique caractérisé par l’intervention spontanée d’un tiers, qui s’emploie à persuader les parties de rechercher un règlement pacifique de leur différend.
+Définition : L’enquête internationale est un mode diplomatique caractérisé par l’intervention d’un tiers qui s’emploie, d’abord à établir la matérialité des faits sur lesquels repose le différend, ensuite à proposer aux parties un règlement amiable.
+Définition : La conciliation est un mode diplomatique caractérisé par la mise en œuvre d’une procédure quasi juridictionnelle, au terme de laquelle un tiers (en général, une commission) propose aux parties un règlement amiable de leur différend.
+Définition : La protection diplomatique, c’est « l’invocation par un État, par une action diplomatique ou d’autres moyens de règlement pacifique, de la responsabilité d’un autre État, pour un préjudice causé par un fait internationalement illicite dudit État à une personne physique ou morale ayant la nationalité du premier État, en vue de la mise en œuvre de cette responsabilité. » – Commission du droit international, Projet d’articles sur la protection diplomatique et commentaires y relatifs, 2006.
+**
+
+Définition du droit du contentieux international :
+Le droit du contentieux international, c'est l'ensemble des normes de fond et de procédure [1] qui gouvernent le règlement juridictionnel de différends opposant des sujets de droit international. 
+Une telle définition met en exergue à la fois des critères matériels, et un critère organique que nous nous emploierons à analyser dans cette introduction générale.
  Nous prenons délibérément le parti de le faire en nous appuyant sur ce qui se prête le moins à des controverses d’ordre factuel : la jurisprudence internationale. 
  D’où notre recours fréquent aux dicta (citations) des juridictions internationales, que l’étudiant(e) n’est, bien sûr, pas incité(e) à apprendre par cœur.
 
@@ -11,25 +26,11 @@ Une telle définition met en exergue à la fois des critères matériels [1, 2 e
 « Contentieux » vient du latin « contentio », qui signifie « lutte ».
 Dans le cadre de ce cours, il s’agira d’une lutte juridictionnelle, laquelle a pour fondement l’existence d’un différend. 
  Dès lors, il importe d’élucider aussi bien la notion de différend que la lutte juridictionnelle qui en est l’émanation.
- Sommaire de cette première partie de l’introduction générale
-A – La place centrale des différends	9
-B – Les modes de règlement des différends	15
-
-*
-      A – La place centrale des différends  
-Sommaire de cette sous-partie I – A
-1 – La notion de différend : question de définition et  de qualification	10
-a – Définition et conditions d’existence des différends	10
-b – Principes régissant la qualification de différend	11
-2 – La question de la justiciabilité des différends	12
-a – Les différends justiciables et les différends non justiciables	12
-b – Les différends d’ordre juridique, base de la compétence de la Cour	14
-
-
-
+  A – La place centrale des différends  
 1 – La notion de différend : question de définition et de qualification 
 Les différends interétatiques sont on ne peut plus variés, mais ils concernent toujours au moins un des éléments constitutifs de l’État : territoire, population, gouvernement, indépendance (ou souveraineté).
 a – Définition et conditions d’existence des différends
+
 
  Cette définition de la notion de différend a été donnée par la Cour permanente de Justice internationale (dénommée ci-après « la C.P.J.I. ») : Affaire des concessions Mavrommatis en Palestine, Exception d’incompétence, Arrêt du 30 août 1924. CPJI, série A n°2.
  Pour divers qu’ils soient, les différends interétatiques concernent toujours au moins un des éléments constitutifs de l’État (Territoire, population, gouvernement ou souveraineté).
@@ -41,7 +42,7 @@ Seconde condition : Le rejet explicite ou implicite de cette réclamation par l�
 1. lorsque, d’une part, l’État X a formulé des griefs à l’encontre de l’État Y (griefs notifiés par X à Y)
 2. et que, d’autre part, l’État Y a rejeté explicitement ou implicitement ces griefs.
 * Illustrations tirées de la jurisprudence de la Cour :
-       > « À tort ou à raison, le Portugal a formulé des griefs en fait et en droit à l'encontre de l'Australie et celle-ci les a rejetés. Du fait de ce rejet, il existe un différend d'ordre juridique. » –  Timor oriental (Portugal c. Australie), Arrêt du 30 juin 1995. C.I.J. Recueil 1995, p. 99. 
+« À tort ou à raison, le Portugal a formulé des griefs en fait et en droit à l'encontre de l'Australie et celle-ci les a rejetés. Du fait de ce rejet, il existe un différend d'ordre juridique. » –  Timor oriental (Portugal c. Australie), Arrêt du 30 juin 1995. C.I.J. Recueil 1995, p. 99. 
        > « La Cour relève en conséquence que, dans la présente instance, les griefs formulés en fait et en droit par le Liechtenstein contre l’Allemagne sont rejetés par cette dernière. Conformément à sa jurisprudence bien établie […], la Cour conclut que "du fait de ce rejet, il existe un différend d’ordre juridique" entre le Liechtenstein et l’Allemagne » – Certains biens (Liechtenstein c. Allemagne), exceptions préliminaires, Arrêt du 10 février 2005. C.I.J. Recueil 2016, p. 6.
 * Nota bene : 
        * Il ne suffit pas que l’État X ait formulé des griefs à l’encontre de l’État Y. La Cour exige que l’État X ait porté ces griefs à la connaissance de l’État Y ;
@@ -86,7 +87,7 @@ a – Les différends justiciables et les différends non justiciables
 * celle des différends non justiciables par nature
 * et celle différends non justiciables par la volonté des parties.
 Pour comprendre cette classification, une clarification liminaire s’impose.
- Qu’est-ce qu’un différend justiciable  (Et donc, logiquement, qu’est qu’un différend non justiciable )
+ Qu’est-ce qu’un différend justiciable ? (Et donc, logiquement, qu’est qu’un différend non justiciable ?)
 Définition de la notion de différend justiciable :
 Un différend justiciable est un différend susceptible d'être soumis valablement à une juridiction internationale.
 Exemple : Un différend juridique est en principe un différend justiciable.
@@ -97,20 +98,25 @@ Exemples :
 * On peut également considérer comme un différend non justiciable un différend qu’une partie a manifesté la volonté de soustraire à la compétence des juridictions internationales, notamment au moyen d’une réserve. 
 *
 La justiciabilité concerne la recevabilité et le non le bien-fondé d’une action en justice.
- Question : Quelle différence y a-t-il, du point de vue de la justiciabilité, entre la recevabilité et le bien-fondé d’une action en justice 
+ Question : Quelle différence y a-t-il, du point de vue de la justiciabilité, entre la recevabilité et le bien-fondé d’une action en justice ? 
  Réponse : Le schéma qui suit montre, sans ambiguïté aucune, du point de vue de la justiciabilité, la différence entre la recevabilité et le bien-fondé d’une action en justice.
 
 **
 b – Les différends d’ordre juridique, base de la compétence de la Cour
- Question : Quelle est la position de la Cour dans le débat sur la justiciabilité des différends 
+ Question : Quelle est la position de la Cour dans le débat sur la justiciabilité des différends ? 
  Réponse : Il résulte d’une jurisprudence constante que la Cour a adopté une position qui se laisse décrire comme suit, en quatre points.  
 La Cour estime qu’elle n’a compétence que pour statuer sur des différends d’ordre juridique.
-Qu’est-ce qu’un différend d’ordre juridique  
+Qu’est-ce qu’un différend d’ordre juridique ?  
  Réponse : 
+
+Un différend d’ordre juridique est un différend « susceptible d'être résolu par application des principes et des règles du droit international » – Actions armées frontalières et transfrontalières (Nicaragua c. Honduras), compétence et recevabilité, Arrêt du 20 décembre 1988. C.I.J. Recueil 1988, p. 69.
 
 Si un différend est à la fois juridique et politique, la Cour le considère comme un différend juridique.
 Si les parties sont en désaccord sur le caractère juridique de leur différend, il appartient à la Cour de qualifier le différend en se fondant sur la définition ci-dessus.
 **
+
+*
+        B – Les modes de règlement des différends
 
 1 – Préalable : la classification des modes de règlement des différends internationaux
 
@@ -146,7 +152,16 @@ Article 33, paragraphe 1 de la Charte :
  La raison en est simple : 
 « Dans l'état actuel du droit international général, chaque État apprécie pour lui-même sa situation juridique au regard des autres États. En présence d'une situation qui comporte à son avis la violation d'une obligation internationale par un autre État, il a le droit, sous la réserve des règles générales du droit international relatives aux contraintes armées, de faire respecter son droit par des "contre-mesures". » – Affaire concernant l’accord relatif aux services aériens du 27 mars 1946 entre les États-Unis d’Amérique et la France, Sentence arbitrale du 9 décembre 1978. Recueil des sentences arbitrales, Vol. XVIII, p. 483.
 
-Question : À quelles conditions, le recours par un État à des contre-mesures est-il justifié en droit international 
+
+
+
+
+
+
+
+
+
+ Question : À quelles conditions, le recours par un État à des contre-mesures est-il justifié en droit international ? 
  Réponse : Selon la Cour (C’est-à-dire CIJ ou Cour internationale de Justice), pour qu’une contre-mesure soit justifiée (ou licite), cinq conditions doivent être cumulativement réunies : 
 La contre-mesure doit être prise pour riposter à un fait internationalement illicite d'un autre État et doit être dirigée contre cet État ;
 L’État lésé doit avoir invité l'État auteur du fait illicite à mettre fin à son comportement illicite ou à en fournir réparation ;
@@ -190,9 +205,9 @@ Les parties à un différend sont-elles obligées de recourir à un mode diploma
 * à la négociation 
 * à une médiation ou aux bons offices 
 * à une conciliation 
-* ou encore à une enquête internationale 
-Quelles sont les obligations des parties à l’occasion de l’exercice d’un mode diplomatique de règlement des différends internationaux auquel elles ont accepté de recourir 
-Une solution issue de l’exercice d’un mode diplomatique de règlement des différends internationaux est-elle obligatoire pour les parties  Met-elle fin ipso facto au différend qui les oppose 
+* ou encore à une enquête internationale ? 
+Quelles sont les obligations des parties à l’occasion de l’exercice d’un mode diplomatique de règlement des différends internationaux auquel elles ont accepté de recourir ? 
+Une solution issue de l’exercice d’un mode diplomatique de règlement des différends internationaux est-elle obligatoire pour les parties ? Met-elle fin ipso facto au différend qui les oppose ? 
 Comme réponses à ces trois questions, voici, dans l’ordre, les trois grands principes communs aux modes diplomatiques de règlement des différends internationaux :
 Premier principe, Réponse à la question n°1 : Non, sauf engagement contraire. Donc, la réponse détaillée est : Oui et non. 
 Non, en principe, les parties à un différend ne sont pas obligées de recourir à un mode diplomatique précis de règlement des différends internationaux (Négociation, médiation ou bons offices, conciliation ou enquête internationale).
@@ -211,10 +226,11 @@ Oui, une solution issue de l’exercice d’un mode diplomatique de règlement d
  Rappel : Ces trois grands principes valent pour tous les modes diplomatiques de règlement des différends internationaux – Négociation, médiation ou bons offices, conciliation ou enquête internationale.
 **
 
-
 c – Les traits distinctifs des divers modes diplomatiques de règlement des différends internationaux
 
 i – La négociation
+
+ Définition : La négociation est un mode diplomatique caractérisé par un dialogue, en principe direct, au cours duquel les parties procèdent à des échanges de vues et à des concessions réciproques, afin de parvenir à un règlement amiable de leur différend.
 La négociation se singularise par l’absence officielle de tiers, qu'il s'agisse d'un État, d'une personnalité ou d'une institution internationale. 
  On estime volontiers que la négociation est l’instrument ordinaire des relations internationales. En effet, elle y remplit les fonctions les plus variées : élaboration de traités, définition de politiques communes ... 
  En conséquence, on perçoit également la négociation comme le mode ordinaire de règlement des différends internationaux. Pour régler leurs différends, les États commencent souvent par négocier. 
@@ -224,17 +240,19 @@ Mais le face-à-face sur lequel se fonde la négociation expose le plus faible �
 *
  Question : Quelles sont les trois seules questions contentieuses qu’il est pertinent de poser au sujet de la négociation
 o aussi bien devant la Cour
-o que dans un cas pratique d’examen 
+o que dans un cas pratique d’examen ? 
  Réponse : Voir ci-dessus, page 20 : b – Les trois grands principes communs aux modes diplomatiques de règlement des différends internationaux. 
 **
 ii – La médiation et les bons offices
 
- Certains auteurs s’évertuent à distinguer la médiation des bons offices de la manière suivante : 
+Certains auteurs s’évertuent à distinguer la médiation des bons offices de la manière suivante : 
 1. Les bons offices seraient présentés spontanément par le tiers, alors que la médiation serait sollicitée par les parties.
 2. Dans le cadre d’une médiation, le tiers propose une solution, tandis l’auteur des bons offices se borne à encourager les parties à chercher une solution.
 D’où la définition suivante des bons offices.
 
- Aucune nécessité juridique ni aucun intérêt contentieux ne justifient une telle distinction entre les bons offices et la médiation. 
+Définition : Les bons offices sont un mode diplomatique caractérisé par l’intervention spontanée d’un tiers, qui s’emploie à persuader les parties de rechercher un règlement pacifique de leur différend.
+
+Aucune nécessité juridique ni aucun intérêt contentieux ne justifient une telle distinction entre les bons offices et la médiation. 
  En pratique, médiation et bons offices sont utilisés de manière indifférenciée, le premier terme étant d’un usage plus courant. 
 *
  Question : Quelles sont les trois seules questions contentieuses qu’il est pertinent de poser au sujet de la médiation (ou des bons offices)
@@ -245,26 +263,37 @@ o que dans un cas pratique d’examen
 
 iii – L'enquête internationale
 
+Définition : L’enquête internationale est un mode diplomatique caractérisé par l’intervention d’un tiers qui s’emploie, d’abord à établir la matérialité des faits sur lesquels repose le différend, ensuite à proposer aux parties un règlement amiable.
 
 *
  Question : Quelles sont les trois seules questions contentieuses qu’il est pertinent de poser au sujet de l’enquête internationale 
 o aussi bien devant la Cour
-o que dans un cas pratique d’examen 
+o que dans un cas pratique d’examen ? 
  Réponse : Voir ci-dessus, page 20 : b – Les trois grands principes communs aux modes diplomatiques de règlement des différends internationaux. 
 **
 
 iv – La conciliation
+Définition : La conciliation est un mode diplomatique caractérisé par la mise en œuvre d’une procédure quasi juridictionnelle, au terme de laquelle un tiers (en général, une commission) propose aux parties un règlement amiable de leur différend.
+
+
+
+
+
+
+
 
 *
  Question : Quelles sont les trois seules questions contentieuses qu’il est pertinent de poser au sujet de la conciliation
 o aussi bien devant la Cour
-o que dans un cas pratique d’examen 
+o que dans un cas pratique d’examen ? 
  Réponse : Voir ci-dessus, page 20 : b – Les trois grands principes communs aux modes diplomatiques de règlement des différends internationaux. 
 ** 
 
          II – La définition organique du contentieux international 
+Sommaire de cette seconde partie de l’introduction générale
       
      A – Le monopole originaire et consensuel des États 
+Sommaire de cette sous-partie II – A
 
 1 – La justice internationale, une justice interétatique
  Pour des raisons historiques et juridiques, les justiciables internationaux sont, au premier chef, sinon exclusivement, les États.
@@ -324,7 +353,7 @@ Elle ne constitue pas d’office une juridiction d’appel ou de cassation à l�
  À la demande de l’Assemblée générale des Nations Unies, la CIJ entreprend de répondre à la question suivante :
  « Au cas où un agent des Nations Unies subit, dans l’exercice de ses fonctions, un dommage dans des conditions de nature à engager la responsabilité d’un État, l’ONU a-t-elle qualité pour présenter contre le gouvernement de jure ou de facto responsable une réclamation internationale en vue d’obtenir la réparation des dommages causés : 
 a) aux Nations Unies ; 
-b) à la victime ou à ses ayants droit  »  
+b) à la victime ou à ses ayants droit ? »  
  Pour répondre affirmativement à cette question (double : a et b), la Cour démontre d’abord que l’ONU a la personnalité juridique internationale en dépit du silence de la Charte à ce sujet.
  Ensuite, de l’affirmation que l’ONU a la personnalité juridique internationale, la Cour tire la conclusion que l'Organisation a la capacité de se prévaloir de ses droits par voie de réclamation internationale, y compris sur un mode contentieux.
  Il est donc clair qu’une organisation internationale peut être demanderesse ou défenderesse devant les juridictions internationales, exception faite de la CIJ dont la fonction contentieuse est réservée aux États.
@@ -338,20 +367,10 @@ Les traités bilatéraux relatifs aux investissements confèrent des droits et u
  Provoquer la naissance d’un différend interétatique permet de contourner cet obstacle qui remonte à la naissance du droit international. 
  En effet, les personnes privées peuvent bénéficier de la protection diplomatique.
 a – La protection diplomatique, un droit de l’État
- La Commission du droit international définit la protection diplomatique dans les termes qui suivent. 
+ La Commission du droit international définit la protection diplomatique dans les termes qui suivent.
+Définition : La protection diplomatique, c’est « l’invocation par un État, par une action diplomatique ou d’autres moyens de règlement pacifique, de la responsabilité d’un autre État, pour un préjudice causé par un fait internationalement illicite dudit État à une personne physique ou morale ayant la nationalité du premier État, en vue de la mise en œuvre de cette responsabilité. » – Commission du droit international, Projet d’articles sur la protection diplomatique et commentaires y relatifs, 2006. 
 
-
-
-
-
-
-
-
-
-
-
-
- Selon la CIJ, cette définition reflète le droit international coutumier – Ahmadou Sadio Diallo (République de Guinée c. République démocratique du Congo), exceptions préliminaires, Arrêt du 24 mai 2007. C.I.J. Recueil 2007, p. 582.
+Selon la CIJ, cette définition reflète le droit international coutumier – Ahmadou Sadio Diallo (République de Guinée c. République démocratique du Congo), exceptions préliminaires, Arrêt du 24 mai 2007. C.I.J. Recueil 2007, p. 582.
  Le commentaire de la Cour Permanente de Justice Internationale (C.P.J.I.) sur la protection diplomatique a sa place dans les annales du droit international : 
 « C'est un principe élémentaire du droit international que celui qui autorise l'État à protéger ses nationaux lésés par des actes contraires au droit international commis par un autre État, dont ils n'ont pu obtenir satisfaction par les voies ordinaires. » – Affaire des concessions Mavrommatis en Palestine, Exception d’incompétence, Arrêt du 30 août 1924. CPJI, série A n°2, pp. 637.
  La CIJ a eu l’occasion de renchérir :
@@ -421,15 +440,16 @@ Avant de recourir à la juridiction internationale, il a été considéré en pa
 * Inexistence de recours internes ;
 * Circonstances exceptionnelles faisant obstacle aux recours internes.
  La charge de la preuve de l’épuisement ou du non-épuisement des recours internes
- La charge de la preuve de l’épuisement ou du non-épuisement des recours internes incombe-t-elle à l’État exerçant sa protection diplomatique ou à l’État défendeur  
+ La charge de la preuve de l’épuisement ou du non-épuisement des recours internes incombe-t-elle à l’État exerçant sa protection diplomatique ou à l’État défendeur ?  
 Dans l’affaire Ahmadou Sadio Diallo (République de Guinée c. République démocratique du Congo), la CIJ a donné une réponse en forme de distinction :
 « [C]'est au demandeur qu'il incombe de prouver que les voies de recours internes ont bien été épuisées ou d'établir que des circonstances exceptionnelles dispensaient la personne prétendument lésée et dont il entend assurer la protection d'épuiser les recours internes disponibles […] 
 Quant au défendeur, il lui appartient de convaincre la Cour qu'il existait dans son ordre juridique interne des recours efficaces qui n'ont pas été épuisés. 
 En l'espèce, il revient donc à la Guinée d'établir que M. Diallo a épuisé les voies de recours internes disponibles, ou, le cas échéant, de démontrer que des circonstances exceptionnelles ont justifié qu'il ne l'ait pas fait. 
 Il incombe en revanche à la RDC de prouver l'existence, dans son ordre juridique interne, de voies de recours disponibles et efficaces contre la mesure d'éloignement du territoire dont M. Diallo a fait l'objet et qui n'auraient pas été épuisées par ce dernier. » – Ahmadou Sadio Diallo (République de Guinée c. République démocratique du Congo), exceptions préliminaires, Arrêt du 24 mai 2007. C.I.J. Recueil 2007, p. 582. 
 **
-Le droit du contentieux international, c'est l'ensemble des normes de fond et de procédure [1] qui gouvernent le règlement juridictionnel [2] de différends [3] opposant des sujets de droit international [4].
-Voilà une définition qui met en exergue à la fois des critères matériels [1, 2 et 3] et un critère organique [4].
+Le droit du contentieux international, c'est l'ensemble des normes de fond et de procédure qui gouvernent le règlement juridictionnel de différends opposant des sujets de droit international.
+Voilà une définition qui met en exergue à la fois des critères matériels et un critère organique.
+
 
 --- DOCUMENT 2: LA POLICE ADMINISTRATIVE ---
 Définition: Activité visant à assurer le maintien de l'ordre public, sans tendre à la recherche d'infraction pénale.
