@@ -103,10 +103,10 @@ const TextChat: React.FC = () => {
   const API_KEY = import.meta.env.VITE_API_KEY;
 
   const suggestions = [
-    "Qu'est-ce qu'un différend ?",
+    "Qu'est-ce qu'une contre-mesure ?",
     "L'arrêt Mavrommatis et la notion de différend",
-    "Différence entre différend justiciable et différend non justiciable",
-    "Définition de la médiation"
+    "Qu'est-ce qu'un différend non justiciable ?",
+    "Définition de la médiation ?"
   ];
 
   const scrollToBottom = () => {
