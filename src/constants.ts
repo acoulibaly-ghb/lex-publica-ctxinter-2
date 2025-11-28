@@ -2,9 +2,8 @@
 export const KNOWLEDGE_BASE = `
 --- DOCUMENT 1: INTRODUCTION AU COURS DE CONTENTIEUX INTERNATIONAL ---
 
-Définition du droit du contentieux international :
-Le droit du contentieux international, c'est l'ensemble des normes de fond et de procédure [1] qui gouvernent le règlement juridictionnel [2] de différends [3] opposant des sujets de droit international [4]. 
- Une telle définition met en exergue à la fois des critères matériels [1, 2 et 3] et un critère organique [4] que nous nous emploierons à analyser dans cette introduction générale.
+Définition du droit du contentieux international : Le droit du contentieux international, c'est l'ensemble des normes de fond et de procédure, qui gouvernent le règlement juridictionnel de différends opposant des sujets de droit international.
+Une telle définition met en exergue à la fois des critères matériels [1, 2 et 3] et un critère organique [4] que nous nous emploierons à analyser dans cette introduction générale.
  Nous prenons délibérément le parti de le faire en nous appuyant sur ce qui se prête le moins à des controverses d’ordre factuel : la jurisprudence internationale. 
  D’où notre recours fréquent aux dicta (citations) des juridictions internationales, que l’étudiant(e) n’est, bien sûr, pas incité(e) à apprendre par cœur.
 
@@ -109,31 +108,9 @@ La Cour estime qu’elle n’a compétence que pour statuer sur des différends 
 Qu’est-ce qu’un différend d’ordre juridique  
  Réponse : 
 
-
-
-
-
-
 Si un différend est à la fois juridique et politique, la Cour le considère comme un différend juridique.
 Si les parties sont en désaccord sur le caractère juridique de leur différend, il appartient à la Cour de qualifier le différend en se fondant sur la définition ci-dessus.
 **
-
-*
-        B – Les modes de règlement des différends
-Sommaire de cette sous-partie I – B
-1 – Préalable : la classification des modes de règlement des différends internationaux	16
-2 – La prise en compte du recours licite à des contre-mesures	17
-3 – La mise en exergue des modes juridictionnels de règlement des différends internationaux	19
-4 – La prise en considération des modes diplomatiques de règlement des différends internationaux	19
-a – La nomenclature des modes diplomatiques de règlement des différends internationaux	19
-b – Les trois grands principes communs aux modes diplomatiques de règlement des différends internationaux	20
-a – Les traits distinctifs des  divers modes diplomatiques de règlement des différends internationaux	22
-i – La négociation	22
-ii – Les bons offices et la médiation	23
-iii – L’enquête internationale	24
-iv – La conciliation	24
-
-
 
 1 – Préalable : la classification des modes de règlement des différends internationaux
 
@@ -169,16 +146,7 @@ Article 33, paragraphe 1 de la Charte :
  La raison en est simple : 
 « Dans l'état actuel du droit international général, chaque État apprécie pour lui-même sa situation juridique au regard des autres États. En présence d'une situation qui comporte à son avis la violation d'une obligation internationale par un autre État, il a le droit, sous la réserve des règles générales du droit international relatives aux contraintes armées, de faire respecter son droit par des "contre-mesures". » – Affaire concernant l’accord relatif aux services aériens du 27 mars 1946 entre les États-Unis d’Amérique et la France, Sentence arbitrale du 9 décembre 1978. Recueil des sentences arbitrales, Vol. XVIII, p. 483.
 
-
-
-
-
-
-
-
-
-
- Question : À quelles conditions, le recours par un État à des contre-mesures est-il justifié en droit international 
+Question : À quelles conditions, le recours par un État à des contre-mesures est-il justifié en droit international 
  Réponse : Selon la Cour (C’est-à-dire CIJ ou Cour internationale de Justice), pour qu’une contre-mesure soit justifiée (ou licite), cinq conditions doivent être cumulativement réunies : 
 La contre-mesure doit être prise pour riposter à un fait internationalement illicite d'un autre État et doit être dirigée contre cet État ;
 L’État lésé doit avoir invité l'État auteur du fait illicite à mettre fin à son comportement illicite ou à en fournir réparation ;
@@ -244,22 +212,10 @@ Oui, une solution issue de l’exercice d’un mode diplomatique de règlement d
 **
 
 
-
-
- 
-
 c – Les traits distinctifs des divers modes diplomatiques de règlement des différends internationaux
 
 i – La négociation
-
-
-
-
-
-
-
-
- La négociation se singularise par l’absence officielle de tiers, qu'il s'agisse d'un État, d'une personnalité ou d'une institution internationale. 
+La négociation se singularise par l’absence officielle de tiers, qu'il s'agisse d'un État, d'une personnalité ou d'une institution internationale. 
  On estime volontiers que la négociation est l’instrument ordinaire des relations internationales. En effet, elle y remplit les fonctions les plus variées : élaboration de traités, définition de politiques communes ... 
  En conséquence, on perçoit également la négociation comme le mode ordinaire de règlement des différends internationaux. Pour régler leurs différends, les États commencent souvent par négocier. 
  Le procédé de la négociation n’est pas sans présenter quelques inconvénients. 
@@ -273,22 +229,10 @@ o que dans un cas pratique d’examen
 **
 ii – La médiation et les bons offices
 
-
-
-
-
-
-
  Certains auteurs s’évertuent à distinguer la médiation des bons offices de la manière suivante : 
 1. Les bons offices seraient présentés spontanément par le tiers, alors que la médiation serait sollicitée par les parties.
 2. Dans le cadre d’une médiation, le tiers propose une solution, tandis l’auteur des bons offices se borne à encourager les parties à chercher une solution.
 D’où la définition suivante des bons offices.
-
-
-
-
-
-
 
  Aucune nécessité juridique ni aucun intérêt contentieux ne justifient une telle distinction entre les bons offices et la médiation. 
  En pratique, médiation et bons offices sont utilisés de manière indifférenciée, le premier terme étant d’un usage plus courant. 
@@ -302,13 +246,6 @@ o que dans un cas pratique d’examen
 iii – L'enquête internationale
 
 
-
-
-
-
-
-
-
 *
  Question : Quelles sont les trois seules questions contentieuses qu’il est pertinent de poser au sujet de l’enquête internationale 
 o aussi bien devant la Cour
@@ -318,13 +255,6 @@ o que dans un cas pratique d’examen
 
 iv – La conciliation
 
-
-
-
-
-
-
-
 *
  Question : Quelles sont les trois seules questions contentieuses qu’il est pertinent de poser au sujet de la conciliation
 o aussi bien devant la Cour
@@ -332,28 +262,9 @@ o que dans un cas pratique d’examen
  Réponse : Voir ci-dessus, page 20 : b – Les trois grands principes communs aux modes diplomatiques de règlement des différends internationaux. 
 ** 
 
-*
-
-
-*
          II – La définition organique du contentieux international 
-Sommaire de cette seconde partie de l’introduction générale
-A – Le monopole originaire et consensuel des États	26
-B – L’ouverture subséquente et controversée à d’autres sujets de droit	29
-
-
-
-*
       
      A – Le monopole originaire et consensuel des États 
-Sommaire de cette sous-partie II – A
-1 – La justice internationale, une justice interétatique	27
-2 – La justice internationale, une justice primaire	27
-a – Une justice supplétive	27
-b – Une justice facultative	28
-c– Une justice éclatée	28
-
-
 
 1 – La justice internationale, une justice interétatique
  Pour des raisons historiques et juridiques, les justiciables internationaux sont, au premier chef, sinon exclusivement, les États.
@@ -400,16 +311,6 @@ Elle ne constitue pas d’office une juridiction d’appel ou de cassation à l�
 
 *
       B – L’ouverture subséquente et controversée à d’autres sujets de droit
-Sommaire de cette ultime sous-partie II – B
-1 – Les organisations internationales	30
-2 – Les personnes physiques et les entreprises privées	31
-a – La protection diplomatique, un droit de l’État	31
-b – Les conditions de recevabilité de l’action en protection diplomatique	33
-i – Le lien de nationalité entre la personne privée et l’État exerçant l’action en protection diplomatique	33
-ii – L’épuisement préalable des recours internes	35
- Rappel : Définition du droit du contentieux international	36
-
-
 
 1 – Les organisations internationales
  Deux questions principales :
