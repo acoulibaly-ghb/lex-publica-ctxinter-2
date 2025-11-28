@@ -87,7 +87,7 @@ const SimpleMarkdown = ({ text, isUser }: { text: string, isUser: boolean }) => 
 
 const TextChat: React.FC = () => {
   const [messages, setMessages] = useState<Message[]>([
-    { role: 'model', text: '### Bonjour !\n\nJe suis votre assistant juridique spécialisé en contentieux international.\n\nJe peux vous aider ***notamment*** sur les thèmes suivants :\n- **Les différends internationaux**\n- **La protection diplomatique**\n- **Les contre-mesures**\n\nQuelle est votre question ?', timestamp: new Date() }
+    { role: 'model', text: '### Bonjour !\n\nJe suis votre assistant juridique spécialisé en contentieux international.\n\nJe peux vous aider **_notamment_** sur les thèmes suivants :\n- **Les différends internationaux**\n- **La protection diplomatique**\n- **Les contre-mesures**\n\nQuelle est votre question ?', timestamp: new Date() }
   ]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
