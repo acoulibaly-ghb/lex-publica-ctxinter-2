@@ -103,10 +103,9 @@ const TextChat: React.FC = () => {
   const API_KEY = import.meta.env.VITE_API_KEY;
 
   const suggestions = [
-    "La licéité des contre-mesures",
+    "Condions de la licéité des contre-mesures ?",
     "L'arrêt Mavrommatis et la notion de différend",
-    "Différend justiciable ou non",
-    "États et Cour"
+    "Qu'est-ce que la protection diplomatique ?"
   ];
 
   const scrollToBottom = () => {
